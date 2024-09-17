@@ -1,19 +1,21 @@
 # Demo App for JSON
 
-1. Run the app with the 'runApp.sh' file
+1. Update the '.env' file with Mongo endpoint creds
 
-2. Add data via website 'http://localhost:3000'
+2. Run the app with the 'runApp.sh' file
 
-3. List registions 'http://localhost:3000/registrations'
+3. Add data via website 'http://localhost:3000'
 
-4. Stop the app and update the '.env' file to point to your new Mongo endpoint
+4. List registions 'http://localhost:3000/registrations'
 
-5. Run the 'mongoMigrate.sh' file to export JSON to new location
+5. Stop the app and update the '.env' file to point to your new Mongo endpoint
 
-6. Restart app with 'runApp.sh'
+6. Run the 'mongoMigrate.sh' file to export JSON to new location
 
-7. Confirm data with 'http://localhost:3000/registrations'
+7. Restart app with 'runApp.sh'
 
-8. Add data via website 'http://localhost:3000'
+8. Confirm data with 'http://localhost:3000/registrations'
+
+9. Add data via website 'http://localhost:3000'
 
   
