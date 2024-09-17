@@ -11,5 +11,5 @@
 # mongoimport --username joe --password secret1 mongodb://mongodb0.example.com:27017 
 
 # Update path as needed
-/opt/homebrew/bin/mongoimport --type=json --file=registrations.json mongodb://admin:DaOraH0ney90P2%401!@GB5465A498E89AB-VDYZTIQB1ZP9O7KV.adb.ca-toronto-1.oraclecloudapps.com:27017/admin?authMechanism=PLAIN&authSource=$external&ssl=true&retryWrites=false&loadBalanced=true
+/opt/homebrew/bin/mongoimport --type=json --file=registrations.json mongodb://x:xxx@xxxx.adb.ca-toronto-1.oraclecloudapps.com:27017/admin?authMechanism=PLAIN&authSource=$external&ssl=true&retryWrites=false&loadBalanced=true
 
